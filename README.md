@@ -1,4 +1,7 @@
 # Pong-on-py
+
+# BEFORE RUNNING THE CODE INSTALL PYGAME!
+To install pygame just run the command in the terminal "pip install pygame"
 ## Change FPS :
 If u want the game to be faster just put like uhh 200 fps if u want the game to be slower just downgrade fps to like 30.
 ## Change Colors :
